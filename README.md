@@ -1,4 +1,4 @@
-<h1> Counter App built using react hooks-useState </h1>
+
 
 # Counter App built using React hooks-useState  
 
